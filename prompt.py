@@ -1,5 +1,3 @@
-# prompt_engineering_examples.py
-
 import openai
 
 openai.api_key = "your-api-key-here"
